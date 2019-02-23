@@ -6,9 +6,9 @@
             base(4, length)
         { }
 
-        //public override double GetArea()
-        //{
-        //    return SideLength * SideLength;
-        //}
+        public override double GetArea()
+        {
+            return SideLength * SideLength;
+        }
     }
 }
