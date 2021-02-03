@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.421
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polygons", "Polygons\Polygons.csproj", "{B6412D26-1F9B-4A09-8A85-EC8EBB1B8DF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polygons", "Polygons\Polygons.csproj", "{B6412D26-1F9B-4A09-8A85-EC8EBB1B8DF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polygons.Library", "Polygons.Library\Polygons.Library.csproj", "{A0E2E5F2-FE69-4F5E-84BF-799182F7A2FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polygons.Library", "Polygons.Library\Polygons.Library.csproj", "{A0E2E5F2-FE69-4F5E-84BF-799182F7A2FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
